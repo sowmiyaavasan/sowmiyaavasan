@@ -10,6 +10,6 @@ I'm a Software Engineer and I love bringing great designs to life by creating re
 ### Connect with me 📬💬
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sowmiyaa-vasan-8b43a4100/)
-- 🖇 [Email](sowmiyaa95@gmail.com)
+- 🖇 sowmiyaa95@gmail.com
 
 
