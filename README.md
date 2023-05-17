@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi I'm Sowmiyaa 👋👩‍💻
 
-<!--
-**sowmiyaavasan/sowmiyaavasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer/ Fullstack Developer 
+🎓 Graduate of Master of Applied Computing - University of Windsor
 
-Here are some ideas to get you started:
+### About me 🎧📔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer and I love bringing great designs to life by creating responsive solutions. My specialties include quickly adapting to new technologies and learning new programming languages, problem-solving, and bringing smiles to people's faces. Some technologies I enjoy working with include **ReactJS**, **JamStack** (JavaScript, APIs and Markup). I'm currently developing my skills on **MERN stack** (MongoDB, Express, React and Node) and enjoying every ounce of my career. 
+
+### Connect with me 📬💬
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sowmiyaa-vasan-8b43a4100/)
+- 🖇 [Email](sowmiyaa95@gmail.com)
+
+
